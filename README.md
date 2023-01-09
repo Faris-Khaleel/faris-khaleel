@@ -8,10 +8,10 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Faris-Melhem, Computer science  Graduate and a Performance Engineer from Jordan.
+  Hi, I'm Faris Melhem, a Performance Engineer from Jordan.
   <br>
   <br>
-  👨‍🎓 I have graduated from the university of Jordan with bachelor degree in Computer science.
+  👨‍🎓 I have graduated from the University of Jordan with bachelor degree in Computer science.
   <br>
   💻 I love Writing code 😊
   <br>
@@ -62,8 +62,3 @@
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=faresmelhem/faresmelhem" alt="faresmelhem"/>       
 </p>
-
-<!---
-HalemoGPA/HalemoGPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
