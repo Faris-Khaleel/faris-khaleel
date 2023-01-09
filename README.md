@@ -60,13 +60,8 @@
 
 </p>
 
-<hr>
-<p align="center">
-  <a href="https://faresmelhem44.wixsite.com/fares?" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
-</p>
-
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=faresmelhem/faresmelhem" alt="faresmelhem"/>       
 </p>
 
 <!---
