@@ -51,11 +51,11 @@
 <br>
 <p align="center">
 <a href="https://github.com/faresmelhem/Learning_Windows_Batching">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faresmelhem&repo=Learn-Js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faresmelhem&repo=Learning_Windows_Batching&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
   
 <a href="https://github.com/faresmelhem/Jetbrains-Academy">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faresmelhem&repo=Learn-CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faresmelhem&repo=Jetbrains-Academy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 </p>
