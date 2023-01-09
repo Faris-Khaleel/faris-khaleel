@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=faresmelhem/faresmelhem" alt="faresmelhem">    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+faresmelhem;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -62,7 +62,7 @@
 
 <hr>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
+  <a href="https://faresmelhem44.wixsite.com/fares?" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
 </p>
 
 <p  align="center">
