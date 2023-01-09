@@ -1,5 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=faresmelhem/faresmelhem" alt="faresmelhem">    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+faresmelhem;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=faresmelhem/faresmelhem" alt="faresmelhem">
 
 <h1 align="center">
   <a>
