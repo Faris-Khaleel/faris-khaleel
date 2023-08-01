@@ -51,7 +51,7 @@
 </a>   
   
 <a href="https://github.com/faresmelhem/Kotlin-Projects">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faresmelhem&repo=Jetbrains_Academy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faresmelhem&repo=Kotlin-Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 </p>
