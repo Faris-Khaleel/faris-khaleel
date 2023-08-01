@@ -8,7 +8,7 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Faris Melhem, a Performance Engineer from Jordan.
+  Hi, I'm Faris Melhem, a Quality Engineer from Jordan.
   <br>
   <br>
   👨‍🎓 I have graduated from the University of Jordan with bachelor degree in Computer science.
@@ -50,7 +50,7 @@
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faresmelhem&repo=Learning_Windows_Batching&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
   
-<a href="https://github.com/faresmelhem/Jetbrains_Academy">
+<a href="https://github.com/faresmelhem/Kotlin-Projects">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faresmelhem&repo=Jetbrains_Academy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
