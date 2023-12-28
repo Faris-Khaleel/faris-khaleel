@@ -1,21 +1,21 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=faresmelhem/faresmelhem" alt="faresmelhem">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=faris-khaleel/faris-khaleel" alt="faris-khaleel">
 
 <h1 align="center">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Faris+Melhem;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Faris+Khaleel;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
   </a>
 </h1>
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Faris Melhem, a Quality Engineer from Jordan.
+  Hi, I'm Faris Khaleel, a Quality Engineer from Jordan.
   <br>
   <br>
   👨‍🎓 I have graduated from the University of Jordan with bachelor degree in Computer science.
   <br>
   💻 I love Writing code 😊
   <br>
-  📚 I’m currently focusing on Performance Engineering
+  📚 I’m currently focusing on Quality Engineering
   <br>
   📫 How to reach me 👇
 </p>
