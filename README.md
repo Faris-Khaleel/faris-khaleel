@@ -37,7 +37,7 @@
 
 
 <p align="center">
-<a href="https://github.com/faresmelhem">
+<a href="https://github.com/Faris-Khaleel">
       <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresmelhem&hide=c%23,Ruby,Rust,C+,Go%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  </a>
 </p>
@@ -46,17 +46,17 @@
 <h2 align="center">💹 Most Popular Repos 💹</h2>
 <br>
 <p align="center">
-<a href="https://github.com/faresmelhem/Learning_Windows_Batching">
+<a href="https://github.com/Faris-Khaleel/Learning_Windows_Batching">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faresmelhem&repo=Learning_Windows_Batching&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
   
-<a href="https://github.com/faresmelhem/Kotlin-Projects">
+<a href="https://github.com/Faris-Khaleel/Kotlin-Projects">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faresmelhem&repo=Kotlin-Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 </p>
 
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=faresmelhem/faresmelhem" alt="faresmelhem"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Faris-Khaleel/Faris-Khaleel" alt="faresmelhem"/>       
 </p>
 
