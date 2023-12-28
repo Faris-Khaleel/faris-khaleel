@@ -57,6 +57,6 @@
 </p>
 
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Faris-Khaleel/Faris-Khaleel" alt="faresmelhem"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Faris-Khaleel/Faris-Khaleel" alt="Faris-Khaleel"/>       
 </p>
 
