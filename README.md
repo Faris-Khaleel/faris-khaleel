@@ -142,14 +142,6 @@ currently  : Open to Senior Integration, QA & API Engineering roles
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faris-khaleel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
-
----
-
 ### 📈 Activity Graph
 
 <p align="center">
